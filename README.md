@@ -97,7 +97,16 @@
  
  - **What was done to produce the results**:
    Data was collected via Apify, cleaned (duplicates/outliers handled), then analyzed with descriptive statistics and statistical modeling. Figures/tables were exported and used in the final report.
- 
+
+ ## How to Reproduce (Notebook)
+
+ - **Main notebook**:
+   `notebook/solution.ipynb`
+ - **Script version (optional)**:
+   `notebook/reproduce_figures.py`
+ - **Expected outputs (generated)**:
+   `finalreport/summary_tables/*.csv`
+
  ## Dataset Notes
 
  - **Source**: Apify TikTok Scraper API
