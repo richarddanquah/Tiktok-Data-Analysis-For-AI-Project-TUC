@@ -134,19 +134,3 @@
    Prioritize **visa application tips** (checklists, interview prep, approval strategies) as the top-performing vertical.
  - **Distribution**:
    Maintain posting consistency and selectively leverage trending sounds to improve discoverability.
-
- ## Recommendations (Execution Playbook)
-
- Convert the findings into an execution-friendly playbook.
-
- - **Content themes to prioritize**:
-   Visa application tips, document checklists, interview prep, approval strategies, common mistakes.
- - **Hook formulas to reuse**:
-   Tutorial-first openings (step-by-step), followed by question-led hooks when optimizing for comments.
- - **CTA patterns** (comment prompts, save prompts, share prompts):
-   Ask viewers to comment their country/route, save for the checklist, and share with someone applying.
- - **Series ideas**:
-   “Visa in 60 seconds” (kept to 30–45s), country-specific mini-guides, “documents you must not forget”.
- - **Do/avoid list**:
-   Do: specific, actionable guidance.
-   Avoid: overly dramatic openers that don’t deliver utility.
